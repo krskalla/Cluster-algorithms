@@ -124,27 +124,4 @@ library(clustMixType)
 
 model = kproto(data,k=2)
 
-Numeric predictors: 2
-
-Categorical predictors: 2
-
-Lambda: 390.7399
-
-Number of Clusters: 2
-
-Cluster sizes: 5 3
-
-Within cluster error: 2056.96 1882.886
-
-Cluster prototypes:
-
-      A        B            C D
-
-1     21.4   22.80000       1 2
-
-8     55.0   25.33333       1 3
-
-model$cluster
-
-[1] 1 1 1 1 2 2 1 2
-
+![image](https://user-images.githubusercontent.com/10230160/45139779-8a82b000-b1ce-11e8-886d-3b6b2faf4f04.png)
