@@ -1,7 +1,7 @@
-# Cluster-algorithms
+# K-Prototype clustering in an excel.
 
 
-K-Prototype Clustering
+K-Prototype Clustering algorithm in an excel.
 
 Clustering is very important statistical technique which is used to cluster the data based on different methods. While dealing with real time data, we will have both continuous variables and categorical variables. If we have only continuous variables, then we can go for k-means clustering algorithm to cluster the data. If we have only categorical variables in your data, then we can go for k-modes clustering algorithm to cluster the data. If we have both the variables types in the data, then k-means and k-modes doesn&#39;t applicable. We should use different algorithm to cluster such type of data. We have a good technique to tackle with such type of data called &#39;k-prototype clustering&#39;. K-prototype clustering is nothing but the combination of both k-means and k-modes clustering.
 
